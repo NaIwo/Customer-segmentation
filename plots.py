@@ -59,4 +59,4 @@ def draw3D(dataset, labels):
     ax.set_ylabel("z2")
     ax.set_zlabel("z3")
 
-    ax.set_title("3D silhouette decomposition")
+    ax.set_title("3D decomposition")
